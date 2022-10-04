@@ -1,4 +1,11 @@
 [![MasterHead](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)]
+
+<p align="center"> <img  alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
+
+<p align="center"><img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="10%"></p> 
+
+
+
 <h1 align="center">Hi 👋, I'm Pasindu Ishan</h1>
 <h3 align="center">Quality Assurance Engineer from Sri Lanka</h3>
 
