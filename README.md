@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Pasindu Ishan</h1>
+<h1 align="center">I'm Pasindu Ishan</h1>
 <h3 align="center">Quality Assurance Engineer from Sri Lanka</h3>
 
 
