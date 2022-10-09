@@ -1,4 +1,4 @@
-![MasterHead](https://github.githubassets.com/images/modules/site/social-cards/github-social.png)
+
 
 <p align="center"> <img  alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
